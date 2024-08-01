@@ -1,0 +1,14 @@
+draw,paint,sock,paint,rain,pencil
+dinner,meal,meal,dog,bird,fish
+cat,animal,tree,oyster,animal,peanut
+flower,garden,garden,together,happy
+leap,jump,sit,stand,jump,sleep
+bring,fetch,milk,ride,fetch,butter
+langley,school,butter,teacher,school
+noisy,loud,whisper,loud,admit,school
+strike,beat,feather,soft,beat,walk
+revile,curse,praise,love,curse,hand
+charge,accusation,mistake,accusation,laugh,smell
+senator,thirty,ten,twenty,thirty,fifty
+vacancies,resignation,flower,resignation,fail,cloudy
+soccer,sport,weather,egg,sport,blue
